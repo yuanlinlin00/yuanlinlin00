@@ -1412,7 +1412,7 @@
 
 <body>
     <div id="worktime">
-        <table id="202304">
+        <table id="2023,04">
             <tr>
                 <td colspan="2">2023 , 04</td>
                 <td>蔡长春</td>
